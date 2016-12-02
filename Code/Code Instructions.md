@@ -4,7 +4,7 @@ Please read through all instructions before starting!
 
 1. Ensure all libraries and board definitions are installed (see [README.md](../README.md))
 
-2. Obtain LEMSv2
+2. Obtain LEMSv2 (be sure real-time clock battery is installed CR1220)
 
 3. Plug LEMSv2 into computer via micro-USB cable
 
